@@ -1,0 +1,542 @@
+{
+  "Blaster carbine": {
+    "Stat": "1d6 energy",
+    "Properties": "Power cell (range 70/280), reload 16, two-handed",
+    "Type": "Simple Blaster",
+    "Cost": "425 cr"
+  },
+  "Blaster pistol": {
+    "Stat": "1d6 energy",
+    "Properties": "Power cell (range 50/200), reload 16",
+    "Type": "Simple Blaster",
+    "Cost": "175 cr"
+  },
+  "Bowcaster": {
+    "Stat": "1d10 energy",
+    "Properties": "Burst 4, power cell (range 50/200), reload 4, strength 13, two-handed",
+    "Type": "Simple Blaster",
+    "Cost": "1,150 cr"
+  },
+  "Hold-out": {
+    "Stat": "1d4 energy",
+    "Properties": "Hidden, light, power cell (range 30/120), reload 8",
+    "Type": "Simple Blaster",
+    "Cost": "225 cr"
+  },
+  "Ion carbine": {
+    "Stat": "1d4 ion",
+    "Properties": "Power cell (range 60/240), reload 12, two-handed",
+    "Type": "Simple Blaster",
+    "Cost": "600 cr"
+  },
+  "Ion pistol": {
+    "Stat": "1d3 ion",
+    "Properties": "Power cell (range 40/160), reload 16",
+    "Type": "Simple Blaster",
+    "Cost": "250 cr"
+  },
+  "Light pistol": {
+    "Stat": "1d4 energy",
+    "Properties": "Light, power cell (range 40/160), reload 8",
+    "Type": "Simple Blaster",
+    "Cost": "250 cr"
+  },
+  "Light repeater": {
+    "Stat": "1d6 energy",
+    "Properties": "Auto, power cell (range 50/200), rapid 5, reload 20, two-handed",
+    "Type": "Simple Blaster",
+    "Cost": "625 cr"
+  },
+  "Light slugpistol": {
+    "Stat": "1d4 kinetic",
+    "Properties": "Light, reload 8, slug cartridge (range 35/140)",
+    "Type": "Simple Blaster",
+    "Cost": "250 cr"
+  },
+  "Scattergun": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Burst 2, reload 8, slug cartridge (range 30/120), strength 11",
+    "Type": "Simple Blaster",
+    "Cost": "625 cr"
+  },
+  "Shotgun": {
+    "Stat": "2d4 kinetic",
+    "Properties": "Burst 2, reload 4, slug cartridge (range 30/120), strength 11, two-handed",
+    "Type": "Simple Blaster",
+    "Cost": "725 cr"
+  },
+  "Slugpistol": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Rapid 8, reload 16, slug cartridge (range 40/160), strength 11",
+    "Type": "Simple Blaster",
+    "Cost": "325 cr"
+  },
+  "Wristblaster": {
+    "Stat": "1d4 energy",
+    "Properties": "Disguised, fixed, light, power cell (range 30/120), reload 8",
+    "Type": "Simple Blaster",
+    "Cost": "200 cr"
+  },
+  "Wrist launcher": {
+    "Stat": "-",
+    "Properties": "Fixed, reload 1, special (range 30/120)",
+    "Type": "Simple Blaster",
+    "Cost": "400 cr"
+  },
+  "Assault cannon": {
+    "Stat": "1d12 energy",
+    "Properties": "Burst 4, power cell (range 90/360), reload 4, strength 15, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,550 cr"
+  },
+  "Beam rifle": {
+    "Stat": "2d6 energy",
+    "Properties": "Penetrating 2, power cell (range 150/600), reload 2, strength 15, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,850 cr"
+  },
+  "Blaster rifle": {
+    "Stat": "1d8 energy",
+    "Properties": "Power cell (range 105/420), reload 12, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "525 cr"
+  },
+  "Carbine rifle": {
+    "Stat": "1d8 energy",
+    "Properties": "Auto, power cell (range 90/360), rapid 3, reload 12, strength 11, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "925 cr"
+  },
+  "Cycler rifle": {
+    "Stat": "1d8 kinetic",
+    "Properties": "Rapid 2, reload 8, slug cartridge (range 90/360), strength 11, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "825 cr"
+  },
+  "Heavy blaster rifle": {
+    "Stat": "2d4 energy",
+    "Properties": "Power cell (range 100/400), rapid 2, reload 8, strength 13, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,025 cr"
+  },
+  "Heavy bowcaster": {
+    "Stat": "1d12 energy",
+    "Properties": "Burst 2, power cell (range 90/360), reload 4, strength 17, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,750 cr"
+  },
+  "Heavy carbine": {
+    "Stat": "1d8 energy",
+    "Properties": "Power cell (range 60/240), rapid 4, reload 16, strength 11, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "775 cr"
+  },
+  "Heavy pistol": {
+    "Stat": "1d8 energy",
+    "Properties": "Power cell (range 45/180), reload 16",
+    "Type": "Martial Blaster",
+    "Cost": "300 cr"
+  },
+  "Heavy repeater": {
+    "Stat": "2d4 energy",
+    "Properties": "Auto, burst 4, power cell (range 80/320), rapid 4, reload 8, strength 13, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,225 cr"
+  },
+  "Heavy shotgun": {
+    "Stat": "2d4 kinetic",
+    "Properties": "Burst 2, reload 8, slug cartridge (range 60/240), strength 13, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,125 cr"
+  },
+  "Heavy slugpistol": {
+    "Stat": "1d8 kinetic",
+    "Properties": "Rapid 8, reload 12, slug cartridge (range 30/120)",
+    "Type": "Martial Blaster",
+    "Cost": "375 cr"
+  },
+  "Hunting rifle": {
+    "Stat": "1d10 kinetic",
+    "Properties": "Reload 4, slug cartridge (range 125/500), strength 11, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,000 cr"
+  },
+  "Ion cannon": {
+    "Stat": "1d10 ion",
+    "Properties": "Auto, burst 4, power cell (range 90/360), reload 4, strength 15, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "3,800 cr"
+  },
+  "Ion rifle": {
+    "Stat": "1d6 ion",
+    "Properties": "Power cell (range 80/320), reload 8, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,150 cr"
+  },
+  "Repeating blaster": {
+    "Stat": "1d8 energy",
+    "Properties": "Auto, burst 4, power cell (range 75/300), rapid 4, reload 8, strength 11, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,025 cr"
+  },
+  "Rotary cannon": {
+    "Stat": "1d10 energy",
+    "Properties": "Auto, power cell (range 75/300), rapid 2, reload 8, strength 13, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,500 cr"
+  },
+  "Slugthrower": {
+    "Stat": "1d8 kinetic",
+    "Properties": "Reload 12, slug cartridge (range 105/420), two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "525 cr"
+  },
+  "Sniper rifle": {
+    "Stat": "1d12 energy",
+    "Properties": "Power cell (range 150/600), reload 2, strength 13, two-handed",
+    "Type": "Martial Blaster",
+    "Cost": "1,300 cr"
+  },
+  "Subrepeater": {
+    "Stat": "1d6 energy",
+    "Properties": "Auto, rapid 4, light, power cell (range 30/120), reload 16, strength 11",
+    "Type": "Martial Blaster",
+    "Cost": "625 cr"
+  },
+  "Techaxe": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Light, thrown (range 25/75)",
+    "Type": "Simple Vibroweapon",
+    "Cost": "75 cr"
+  },
+  "Vibrodagger": {
+    "Stat": "1d4 kinetic",
+    "Properties": "Finesse, light, thrown (range 20/60)",
+    "Type": "Simple Vibroweapon",
+    "Cost": "50 cr"
+  },
+  "Vibrodart": {
+    "Stat": "1d4 kinetic",
+    "Properties": "Finesse, special, thrown (range 20/60)",
+    "Type": "Simple Vibroweapon",
+    "Cost": "5 cr"
+  },
+  "Vibroknuckler": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Hidden, light",
+    "Type": "Simple Vibroweapon",
+    "Cost": "75 cr"
+  },
+  "Vibromace": {
+    "Stat": "1d10 kinetic",
+    "Properties": "Dexterity 11, heavy, two-handed",
+    "Type": "Simple Vibroweapon",
+    "Cost": "700 cr"
+  },
+  "Vibrospear": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Thrown (range 25/75), versatile (2d4)",
+    "Type": "Simple Vibroweapon",
+    "Cost": "125 cr"
+  },
+  "Vibrostaff": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Versatile (2d4)",
+    "Type": "Simple Vibroweapon",
+    "Cost": "100 cr"
+  },
+  "Chakram": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Finesse, returning, thrown (range 30/90)",
+    "Type": "Martial Vibroweapon",
+    "Cost": "175 cr"
+  },
+  "Doubleblade": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Double (1d6 kinetic), finesse, light",
+    "Type": "Martial Vibroweapon",
+    "Cost": "400 cr"
+  },
+  "Doublesword": {
+    "Stat": "1d8 kinetic",
+    "Properties": "Double (1d8 kinetic), finesse",
+    "Type": "Martial Vibroweapon",
+    "Cost": "450 cr"
+  },
+  "Hidden blade": {
+    "Stat": "1d4 kinetic",
+    "Properties": "Finesse, fixed, hidden, light",
+    "Type": "Martial Vibroweapon",
+    "Cost": "75 cr"
+  },
+  "Net": {
+    "Stat": "-",
+    "Properties": "Light, finesse, special, thrown (range 15)",
+    "Type": "Martial Vibroweapon",
+    "Cost": "300 cr"
+  },
+  "Techblade": {
+    "Stat": "1d6 kinetic",
+    "Properties": "Finesse, light",
+    "Type": "Martial Vibroweapon",
+    "Cost": "100 cr"
+  },
+  "Techstaff": {
+    "Stat": "2d4 kinetic",
+    "Properties": "Dexterity 11, double (2d4 kinetic), light",
+    "Type": "Martial Vibroweapon",
+    "Cost": "650 cr"
+  },
+  "Vibroaxe": {
+    "Stat": "1d12 kinetic",
+    "Properties": "Dexterity 11, heavy, two-handed",
+    "Type": "Martial Vibroweapon",
+    "Cost": "950 cr"
+  },
+  "Vibroblade": {
+    "Stat": "1d8 kinetic",
+    "Properties": "Versatile (1d10)",
+    "Type": "Martial Vibroweapon",
+    "Cost": "200 cr"
+  },
+  "Vibropike": {
+    "Stat": "1d10 kinetic",
+    "Properties": "Dexterity 11, reach, two-handed",
+    "Type": "Martial Vibroweapon",
+    "Cost": "950 cr"
+  },
+  "Vibrorapier": {
+    "Stat": "1d8 kinetic",
+    "Properties": "Finesse",
+    "Type": "Martial Vibroweapon",
+    "Cost": "150 cr"
+  },
+  "Vibrosword": {
+    "Stat": "2d6 kinetic",
+    "Properties": "Dexterity 11, two-handed",
+    "Type": "Martial Vibroweapon",
+    "Cost": "1,150 cr"
+  },
+  "Vibrowhip": {
+    "Stat": "1d4 kinetic",
+    "Properties": "Finesse, reach",
+    "Type": "Martial Vibroweapon",
+    "Cost": "275 cr"
+  },
+  "Lightblade": {
+    "Stat": "1d6 energy",
+    "Properties": "Finesse, hidden, luminous",
+    "Type": "Simple Lightweapon",
+    "Cost": "375 cr"
+  },
+  "Lightclub": {
+    "Stat": "1d10 energy",
+    "Properties": "Dexterity 11, heavy, luminous, two-handed",
+    "Type": "Simple Lightweapon",
+    "Cost": "1,300 cr"
+  },
+  "Lightdagger": {
+    "Stat": "1d4 energy",
+    "Properties": "Finesse, hidden, light, luminous, thrown (range 20/60)",
+    "Type": "Simple Lightweapon",
+    "Cost": "425 cr"
+  },
+  "Lightsaber": {
+    "Stat": "1d6 energy",
+    "Properties": "Hidden, luminous, versatile (2d4)",
+    "Type": "Simple Lightweapon",
+    "Cost": "450 cr"
+  },
+  "Lightstaff": {
+    "Stat": "2d4 energy",
+    "Properties": "Dexterity 11, luminous, reach, two-handed",
+    "Type": "Simple Lightweapon",
+    "Cost": "1,275 cr"
+  },
+  "Doublesaber": {
+    "Stat": "1d8 energy",
+    "Properties": "Double (1d8 energy), finesse, luminous",
+    "Type": "Martial Lightweapon",
+    "Cost": "725 cr"
+  },
+  "Doubleshoto": {
+    "Stat": "1d6 energy",
+    "Properties": "Double (1d6 energy), finesse, light, luminous",
+    "Type": "Martial Lightweapon",
+    "Cost": "700 cr"
+  },
+  "Great-saber": {
+    "Stat": "2d6 energy",
+    "Properties": "Dexterity 11, luminous, two-handed",
+    "Type": "Martial Lightweapon",
+    "Cost": "1,725 cr"
+  },
+  "Lightaxe": {
+    "Stat": "1d12 energy",
+    "Properties": "Dexterity 11, heavy, luminous, two-handed",
+    "Type": "Martial Lightweapon",
+    "Cost": "1,550 cr"
+  },
+  "Lightfoil": {
+    "Stat": "1d8 energy",
+    "Properties": "Finesse, hidden, luminous",
+    "Type": "Martial Lightweapon",
+    "Cost": "475 cr"
+  },
+  "Martial lightsaber": {
+    "Stat": "1d8 energy",
+    "Properties": "Hidden, luminous, versatile (1d10)",
+    "Type": "Martial Lightweapon",
+    "Cost": "550 cr"
+  },
+  "Pikesaber": {
+    "Stat": "1d10 energy",
+    "Properties": "Dexterity 11, luminous, reach, two-handed",
+    "Type": "Martial Lightweapon",
+    "Cost": "1,675 cr"
+  },
+  "Saberwhip": {
+    "Stat": "1d4 energy",
+    "Properties": "Finesse, hidden, luminous, reach",
+    "Type": "Martial Lightweapon",
+    "Cost": "750 cr"
+  },
+  "Shotosaber": {
+    "Stat": "1d6 energy",
+    "Properties": "Finesse, hidden, light, luminous",
+    "Type": "Martial Lightweapon",
+    "Cost": "450 cr"
+  },
+  "Splitsaber": {
+    "Stat": "2d4 energy",
+    "Properties": "Double (2d4 energy), interlocking, luminous",
+    "Type": "Martial Lightweapon",
+    "Cost": "1,500 cr"
+  },
+  "Splitshoto": {
+    "Stat": "1d8 energy",
+    "Properties": "Double (1d8 energy), interlocking, light, luminous",
+    "Type": "Martial Lightweapon",
+    "Cost": "1,150 cr"
+  },
+  "Combat suit": {
+    "Stat": "11 + Dex modifier",
+    "Properties": "-",
+    "Type": "Light Armor",
+    "Cost": "100 cr"
+  },
+  "Fiber armor": {
+    "Stat": "12 + Dex modifier",
+    "Properties": "-",
+    "Type": "Light Armor",
+    "Cost": "450 cr"
+  },
+  "Mesh armor": {
+    "Stat": "13 + Dex modifier (max 2)",
+    "Properties": "-",
+    "Type": "Medium Armor",
+    "Cost": "500 cr"
+  },
+  "Weave armor": {
+    "Stat": "14 + Dex modifier (max 2)",
+    "Properties": "-",
+    "Type": "Medium Armor",
+    "Cost": "1,000 cr"
+  },
+  "Composite armor": {
+    "Stat": "15 + Dex modifier (max 2)",
+    "Properties": "Bulky",
+    "Type": "Medium Armor",
+    "Cost": "2,500 cr"
+  },
+  "Battle armor": {
+    "Stat": "16",
+    "Properties": "Bulky, strength 13",
+    "Type": "Heavy Armor",
+    "Cost": "750 cr"
+  },
+  "Assault armor": {
+    "Stat": "17",
+    "Properties": "Bulky, strength 15",
+    "Type": "Heavy Armor",
+    "Cost": "2,000 cr"
+  },
+  "Heavy exoskeleton": {
+    "Stat": "18",
+    "Properties": "Bulky, strength 17",
+    "Type": "Heavy Armor",
+    "Cost": "9,000 cr"
+  },
+  "Light physical shield": {
+    "Stat": "1",
+    "Properties": "-",
+    "Type": "Shield",
+    "Cost": "50 cr"
+  },
+  "Light shield generator": {
+    "Stat": "1",
+    "Properties": "-",
+    "Type": "Shield",
+    "Cost": "125 cr"
+  },
+  "Medium physical shield": {
+    "Stat": "2",
+    "Properties": "Strength 13",
+    "Type": "Shield",
+    "Cost": "150 cr"
+  },
+  "Medium shield generator": {
+    "Stat": "2",
+    "Properties": "-",
+    "Type": "Shield",
+    "Cost": "375 cr"
+  },
+  "Heavy physical shield": {
+    "Stat": "3",
+    "Properties": "Obtrusive, strength 15",
+    "Type": "Shield",
+    "Cost": "500 cr"
+  },
+  "Heavy shield generator": {
+    "Stat": "3",
+    "Properties": "-",
+    "Type": "Shield",
+    "Cost": "1,250 cr"
+  },
+  "Robe": {
+    "Stat": "-",
+    "Properties": "-",
+    "Type": "Clothing",
+    "Cost": "50"
+  },
+  "Belt": {
+    "Stat": "-",
+    "Properties": "-",
+    "Type": "Clothing",
+    "Cost": "50"
+  },
+  "Boots": {
+    "Stat": "-",
+    "Properties": "-",
+    "Type": "Clothing",
+    "Cost": "50"
+  },
+  "Goggles": {
+    "Stat": "-",
+    "Properties": "-",
+    "Type": "Clothing",
+    "Cost": "50"
+  },
+  "Gloves": {
+    "Stat": "-",
+    "Properties": "-",
+    "Type": "Clothing",
+    "Cost": "50"
+  },
+  "Handwraps": {
+    "Stat": "Additional +1 damage with unarmed attacks",
+    "Properties": "-",
+    "Type": "Clothing",
+    "Cost": "50"
+  }
+}
